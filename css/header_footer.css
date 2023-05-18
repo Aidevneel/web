@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#nav ul li a:hover{
+    color : blue;
+}
+
+#nav span{
+    color : black;
+}
+
+#nav a{
+    color : black;
+}
+
+.light-blue{
+    background-color: #f6f7ff;
+}
+
+footer {
+    margin-top: auto;
+}
